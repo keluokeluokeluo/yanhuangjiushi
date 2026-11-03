@@ -1,0 +1,11 @@
+test_dagum_known_crossing (test_analysis.MethodsTest.test_dagum_known_crossing) ... ok
+test_dagum_nonoverlap (test_analysis.MethodsTest.test_dagum_nonoverlap) ... ok
+test_dagum_scale_and_permutation (test_analysis.MethodsTest.test_dagum_scale_and_permutation) ... ok
+test_kde_mass (test_analysis.MethodsTest.test_kde_mass) ... ok
+test_panel_real_data (test_analysis.MethodsTest.test_panel_real_data) ... ok
+test_topsis_ideal_points (test_analysis.MethodsTest.test_topsis_ideal_points) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.126s
+
+OK
